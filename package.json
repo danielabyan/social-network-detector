@@ -1,0 +1,24 @@
+{
+  "name": "social-network-detector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielabyan/social-network-detector.git"
+  },
+  "keywords": [
+    "social",
+    "parsing",
+    "parser",
+    "parse",
+    "analyze",
+    "uri",
+    "url"
+  ],
+  "author": "Daniel Abyan",
+  "license": "MIT",
+  "dependencies": {
+    "url": "^0.11.0"
+  }
+}
