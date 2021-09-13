@@ -164,6 +164,9 @@ module.exports = {
         /com\.medium\.reader$/,
         /com\.medium$/,
     ],
+    onlyfans: [
+        /onlyfans\.com$/,
+    ]
     pinterest: [
         /com\.pinterest$/,
         /com\.pinterest\.twa$/,
@@ -231,7 +234,7 @@ module.exports = {
         /reddituploads\.com$/,
         /com\.reddit\.frontpage$/,
     ],
-        slack: [
+    slack: [
         /com\.slack$/,
         /com\.Slack$/,
         /slack-redir\.net$/,
