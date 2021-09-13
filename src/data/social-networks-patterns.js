@@ -232,6 +232,9 @@ module.exports = {
         /pinterest\.com\.mx$/,
         /pinterest\.cl$/,
     ],
+    producthunt: [
+        /producthunt\.com$/,
+    ],
     qq: [
         /qq\.com$/,
         /myqcloud\.com$/,
