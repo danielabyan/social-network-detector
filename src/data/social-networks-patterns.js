@@ -67,6 +67,9 @@ module.exports = {
         /m\.facebook\.com$/,
         /com\.facebook\.lite$/,
     ],
+    github: [
+        /github\.com$/,
+    ],
     instagram: [
         /com\.instagram\.android$/,
         /instagram\.com$/,
