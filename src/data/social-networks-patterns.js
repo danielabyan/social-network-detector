@@ -1,4 +1,7 @@
 module.exports = {
+    anchor: [
+        /anchor\.fm$/,
+    ],
     discord: [
         /discord\.com$/,
         /discord\.gg$/,
