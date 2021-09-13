@@ -265,6 +265,9 @@ module.exports = {
     spotify: [
         /spotify\.com$/,
     ],
+    substack: [
+        /substack\.com$/,
+    ],
     telegram: [
         /org\.telegram\.messenger$/,
         /org\.telegram\.messenger\.web$/,
