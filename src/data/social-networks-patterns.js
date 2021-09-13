@@ -70,6 +70,9 @@ module.exports = {
     github: [
         /github\.com$/,
     ],
+    gitlab: [
+        /gitlab\.com$/,
+    ],
     instagram: [
         /com\.instagram\.android$/,
         /instagram\.com$/,
