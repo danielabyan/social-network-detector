@@ -12,6 +12,9 @@ module.exports = {
         /joinclubhouse\.com$/,
         /clubber\.one$/,
     ],
+    devdotto: [
+        /dev\.to$/,
+    ],
     discord: [
         /discord\.com$/,
         /discord\.gg$/,
