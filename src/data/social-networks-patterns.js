@@ -11,6 +11,9 @@ module.exports = {
         /discordstatus\.com$/,
         /com\.discord$/,
     ],
+    dribbble: [
+        /dribbble\.com$/,
+    ],
     facebook: [
         /facebook\.com$/,
         /fbcdn\.net$/,
@@ -166,7 +169,7 @@ module.exports = {
     ],
     onlyfans: [
         /onlyfans\.com$/,
-    ]
+    ],
     pinterest: [
         /com\.pinterest$/,
         /com\.pinterest\.twa$/,
