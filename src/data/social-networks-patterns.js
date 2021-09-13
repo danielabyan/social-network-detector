@@ -366,6 +366,9 @@ module.exports = {
         /com\.weico\.international$/,
         /com\.sina\.weibo$/,
     ],
+    wikipedia: [
+        /wikipedia\.org$/,
+    ],
     whatsapp: [
         /whatsapp\.net$/,
         /whatsapp\.com$/,
