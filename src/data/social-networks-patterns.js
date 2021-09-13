@@ -2,6 +2,10 @@ module.exports = {
     anchor: [
         /anchor\.fm$/,
     ],
+    clubhouse: [
+        /joinclubhouse\.com$/,
+        /clubber\.one$/,
+    ],
     discord: [
         /discord\.com$/,
         /discord\.gg$/,
