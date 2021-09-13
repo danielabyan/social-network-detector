@@ -246,6 +246,9 @@ module.exports = {
         /com\.snapchat\.android$/,
         /snapchat\.com$/,
     ],
+    spotify: [
+        /spotify\.com$/,
+    ],
     telegram: [
         /org\.telegram\.messenger$/,
         /org\.telegram\.messenger\.web$/,
