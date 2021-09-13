@@ -2,6 +2,9 @@ module.exports = {
     anchor: [
         /anchor\.fm$/,
     ],
+    angellist: [
+        /angel\.co$/,
+    ],
     behance: [
         /behance\.net$/,
     ],
