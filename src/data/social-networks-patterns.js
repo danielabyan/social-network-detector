@@ -78,8 +78,6 @@ module.exports = {
     ],
     github: [
         /github\.com$/,
-    ],
-    gitlab: [
         /gitlab\.com$/,
     ],
     instagram: [
