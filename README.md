@@ -27,7 +27,8 @@ socialNetworkDetector.getNetworksList();
 * [ 
 *   'facebook', 'twitter', 'linkedin', 'reddit', 'vkontakte', 'pinterest', 'tumblr', 'telegram', 
 *   'snapchat', 'slack', 'youtube', 'whatsapp', 'wechat', 'instagram', 'qq', 'tiktok', 'medium', 
-*   'quora', 'weibo', 'twitch', 'discord'
+*   'quora', 'weibo', 'twitch', 'discord', 'anchor', 'angellist', 'behance', 'clubhouse', 'devdotto',
+*   'dribbble', 'github', 'onlyfans', 'producthunt', 'spotify', 'substack', 'wikipedia', 
 * ]
 */
 ```
